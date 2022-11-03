@@ -11,3 +11,7 @@ The pipeline consists of three main stages which are :
 In the figure below you can see an overview for the pipeline on circleci.
 
 ![pipelineDiagram](./screenshots/circleci-workflow.png)
+
+## The ovireview of the pipeline is as follows
+
+`pushing code to repo` -> `circleci pipeline works` -> `deploying app on` [aws services](./architecture.md)
