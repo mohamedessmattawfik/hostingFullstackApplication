@@ -12,6 +12,14 @@ In the figure below you can see an overview for the pipeline on circleci.
 
 ![pipelineDiagram](./screenshots/circleci-workflow.png)
 
+In the figure below you can find a screenshot of the env variables configured on `circleci`
+
+![envVariables](./screenshots/envVariables.png)
+
 ## The ovireview of the pipeline is as follows
 
 `pushing code to repo` -> `circleci pipeline works` -> `deploying app on` [aws services](./architecture.md)
+
+In the figure below you can find an overview of the pipeline :
+
+![pipelineoverview](./screenshots/pipeline.png)
